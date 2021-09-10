@@ -39,6 +39,16 @@ public class Main {
             System.out.println("Numbertwo is positive" );
 	if(numberOne>100)
         System.out.println("Numberone is greater than 100");
+	else
+        System.out.println("Numberone is not greater than 100");
+        if(numberTwo>100)
+            System.out.println("Numbertwo is greater than 100");
+        else
+            System.out.println("Numbertwo is not greater than 100");
+
+
+
+
     }
 }
 
